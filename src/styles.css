@@ -1,0 +1,18 @@
+body{
+  background-image: url(https://wallpaperplay.com/walls/full/8/d/0/240344.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+h1{
+  background: rgba(192, 149, 114, 0.42);
+  border-radius: 100%;
+  text-align: center;
+  font-family: Comic Sans, Comic Sans MS;
+  padding: 40px;
+}
+.showFact{
+  font-size: 20px;
+  color: white;
+  text-shadow: 10px ;
+}
